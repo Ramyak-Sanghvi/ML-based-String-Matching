@@ -43,17 +43,17 @@ vii) python manage.py runserver
     
     Goto http://127.0.0.1:8000/train/format/match/
 
-    ![trainFormatMatch](assignment/trainFormatMatch.png)
+    ![trainFormatMatch](https://github.com/Ramyak-Sanghvi/ML-based-String-Matching/tree/master/assignment/trainFormatMatch.png)
 
 => API 2 - Training the service : POST http://localhost:NNNN/train/format/learn
     
     Goto http://127.0.0.1:8000/train/format/learn/
 
-    ![trainFormatLearn](assignment/trainFormatLearn.png)
+    ![trainFormatLearn](https://github.com/Ramyak-Sanghvi/ML-based-String-Matching/tree/master/assignment/trainFormatLearn.png)
 
 => API 3 - Format matching Automation : POST http://localhost:NNNN/format/match
  
     Goto http://127.0.0.1:8000/format/match/
 
-    ![trainFormatMatch](assignment/formatMatch.png)
+    ![trainFormatMatch](https://github.com/Ramyak-Sanghvi/ML-based-String-Matching/tree/master/assignment/formatMatch.png)
 
